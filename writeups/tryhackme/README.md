@@ -1,14 +1,11 @@
 # TryHackMe Writeups
 
-This folder contains detailed writeups of TryHackMe rooms I complete.
+Writeups for the TryHackMe rooms I complete.
 
-## Structure
-
-Each writeup is organized in its own folder:
+I'll keep each room in its own folder like this:
 
 ```
-writeups/tryhackme/
-├── room-name/
-│   ├── README.md          # Full writeup
-│   └── screenshots/       # Supporting screenshots
+room-name/
+├── README.md
+└── screenshots/
 ```
