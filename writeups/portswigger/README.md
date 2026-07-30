@@ -1,14 +1,14 @@
 # PortSwigger Web Security Academy
 
-This folder contains notes and writeups from PortSwigger Web Security Academy labs.
+Notes and solutions from the PortSwigger labs I'm working through.
 
-## Topics Covered
-
+Main topics:
 - SQL Injection
 - Cross-site Scripting (XSS)
-- Cross-site Request Forgery (CSRF)
-- Server-side Request Forgery (SSRF)
-- Access Control Vulnerabilities
-- Authentication Vulnerabilities
-- Business Logic Vulnerabilities
-- Additional topics as completed
+- CSRF
+- SSRF
+- Access Control
+- Authentication issues
+- Business Logic flaws
+
+More will be added as I go.
