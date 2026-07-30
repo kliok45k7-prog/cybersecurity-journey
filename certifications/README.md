@@ -1,9 +1,10 @@
 # Certifications & Progress
 
-اس فولڈر میں سرٹیفکیٹس اور لرننگ پروگریس ٹریک کیا جائے گا۔
+This folder tracks certifications and learning milestones.
 
 ### Planned / In Progress
-- [ ] TryHackMe paths completion
-- [ ] PortSwigger Academy completion
-- [ ] eJPT (future)
-- [ ] OSCP (long term goal)
+
+- [ ] TryHackMe learning paths completion
+- [ ] PortSwigger Web Security Academy completion
+- [ ] eJPT (planned)
+- [ ] OSCP (long-term goal)
