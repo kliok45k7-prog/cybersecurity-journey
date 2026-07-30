@@ -1,6 +1,6 @@
 # Cybersecurity Journey
 
-> My personal journey into **Cybersecurity** and **Penetration Testing**, with a current focus on **Web Application Security**.
+> A personal portfolio documenting my journey into **Cybersecurity** and **Penetration Testing**, with a current focus on **Web Application Security**.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kliok45k7-prog/cybersecurity-journey)
 ![GitHub repo size](https://img.shields.io/github/repo-size/kliok45k7-prog/cybersecurity-journey)
@@ -9,21 +9,20 @@
 
 ## About Me
 
-Assalamu Alaikum!  
-I am currently learning **Penetration Testing** with a strong focus on **Web Application Security**.  
-I practice regularly on **TryHackMe** and **PortSwigger Web Security Academy**.
+I am currently building hands-on skills in **Penetration Testing**, with a primary focus on **Web Application Security**.  
+I practice consistently on **TryHackMe** and **PortSwigger Web Security Academy**, documenting my progress, findings, and learning along the way.
 
-This repository is my living portfolio where I document my learning, writeups, notes, and tools as I grow in this field.
+This repository serves as my living portfolio — containing writeups, technical notes, custom tools, and projects as I grow in the field.
 
 ---
 
 ## Current Focus
 
-- **Primary**: Web Application Penetration Testing
-- **Platforms**:
+- **Primary Domain**: Web Application Penetration Testing
+- **Active Platforms**:
   - [TryHackMe](https://tryhackme.com/)
   - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- **Upcoming**: Network Penetration Testing, Active Directory, Privilege Escalation
+- **Next Areas**: Network Penetration Testing, Active Directory, Privilege Escalation
 
 ---
 
@@ -31,29 +30,29 @@ This repository is my living portfolio where I document my learning, writeups, n
 
 ### Technical Skills
 - Web Application Security (OWASP Top 10)
-- Burp Suite
-- SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass
-- Basic Linux & Networking
+- Burp Suite (Proxy, Repeater, Intruder, Scanner)
+- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass
+- Linux fundamentals & basic Networking
 - Information Gathering & Reconnaissance
 
-### Tools I Use
+### Tools
 - Burp Suite Community / Professional
 - OWASP ZAP
 - Nmap
 - Nikto
 - SQLMap
-- Browser DevTools
+- Browser Developer Tools
 
 ---
 
 ## Learning Progress
 
-| Platform              | Status          | Notes                     |
-|-----------------------|-----------------|---------------------------|
-| TryHackMe             | Active          | Completing paths & rooms  |
-| PortSwigger Academy   | Active          | Web Security topics       |
-| HackTheBox            | Planned         | -                         |
-| VulnHub               | Planned         | -                         |
+| Platform                  | Status     | Notes                          |
+|---------------------------|------------|--------------------------------|
+| TryHackMe                 | Active     | Completing learning paths & rooms |
+| PortSwigger Academy       | Active     | Working through web security topics |
+| HackTheBox                | Planned    | —                              |
+| VulnHub                   | Planned    | —                              |
 
 ---
 
@@ -62,42 +61,44 @@ This repository is my living portfolio where I document my learning, writeups, n
 ```
 cybersecurity-journey/
 ├── README.md
-├── writeups/                 # Detailed writeups of rooms & labs
+├── writeups/                 # Detailed writeups of rooms and labs
 │   ├── tryhackme/
 │   └── portswigger/
-├── notes/                    # Methodology, cheatsheets, techniques
+├── notes/                    # Methodology, cheatsheets, and techniques
 │   ├── web-app/
 │   └── general/
-├── tools/                    # Custom scripts & tools I create
+├── tools/                    # Custom scripts and tools
 ├── projects/                 # Larger personal projects
-└── certifications/           # Certificates & progress tracking
+└── certifications/           # Certificates and progress tracking
 ```
 
 ---
 
 ## Writeups
 
-> Coming soon... I will start adding detailed writeups here as I complete rooms and labs.
+Detailed writeups will be added here as rooms and labs are completed.
 
 ### TryHackMe
-- [ ] Coming soon
+- Coming soon
 
-### PortSwigger Academy
-- [ ] Coming soon
+### PortSwigger Web Security Academy
+- Coming soon
 
 ---
 
 ## Notes & Cheatsheets
 
-I will regularly update this section with my personal notes on:
+This section will be regularly updated with personal notes covering:
 - OWASP Top 10
-- Common Web Vulnerabilities
-- Burp Suite tips
-- Methodology (PTES / OWASP Testing Guide)
+- Common web vulnerabilities and exploitation techniques
+- Burp Suite tips and workflows
+- Testing methodology (PTES / OWASP Testing Guide)
 
 ---
 
-## Methodology I Follow
+## Methodology
+
+I follow a structured approach based on industry standards:
 
 1. **Reconnaissance**
 2. **Scanning & Enumeration**
@@ -110,11 +111,11 @@ I will regularly update this section with my personal notes on:
 
 ## Goals
 
-- [ ] Complete PortSwigger Web Security Academy (all topics)
+- [ ] Complete all PortSwigger Web Security Academy topics
 - [ ] Finish major TryHackMe learning paths (Web Fundamentals, Jr Penetration Tester, etc.)
-- [ ] Build a strong collection of high-quality writeups
-- [ ] Learn and document advanced web attacks
-- [ ] Move towards OSCP / eJPT preparation
+- [ ] Build a high-quality collection of detailed writeups
+- [ ] Document advanced web application attack techniques
+- [ ] Prepare for industry certifications (eJPT → OSCP)
 
 ---
 
@@ -124,6 +125,6 @@ I will regularly update this section with my personal notes on:
 
 ---
 
-**Note**: This is a living document. I update it regularly as I learn and grow.
+*This is a living document and is updated regularly as I continue learning and growing in cybersecurity.*
 
 *Last updated: July 2026*
