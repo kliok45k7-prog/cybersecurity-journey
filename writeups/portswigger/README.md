@@ -1,7 +1,4 @@
-# PortSwigger Web Security Academy Writeups
-
-اس فولڈر میں PortSwigger Academy کے labs کے notes اور writeups ہوں گے۔
-
+# PortSwigger Web Security Academy Writeup
 ## Topics
 
 - SQL Injection
