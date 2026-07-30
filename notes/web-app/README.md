@@ -1,9 +1,9 @@
 # Web Application Security Notes
 
-اس فولڈر میں میرے ذاتی نوٹس ہوں گے:
+This folder contains my personal notes on web application security topics, including:
 
 - OWASP Top 10
-- Common vulnerabilities اور ان کے exploitation techniques
-- Burp Suite tips & tricks
-- Request/Response analysis
-- Payload collections
+- Common vulnerabilities and exploitation techniques
+- Burp Suite tips and workflows
+- Request and response analysis
+- Payload collections and cheatsheets
