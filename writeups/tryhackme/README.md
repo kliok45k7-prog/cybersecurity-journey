@@ -1,14 +1,14 @@
 # TryHackMe Writeups
 
-اس فولڈر میں میں TryHackMe کے rooms کے تفصیلی writeups رکھوں گا۔
+This folder contains detailed writeups of TryHackMe rooms I complete.
 
 ## Structure
 
-ہر writeup الگ فولڈر میں ہوگا، مثلاً:
+Each writeup is organized in its own folder:
 
 ```
 writeups/tryhackme/
 ├── room-name/
-│   ├── README.md          # مکمل writeup
-│   └── screenshots/
+│   ├── README.md          # Full writeup
+│   └── screenshots/       # Supporting screenshots
 ```
