@@ -1,8 +1,5 @@
 # Tools & Scripts
 
-This folder contains custom scripts and tools I develop during my learning journey.
+Small scripts and tools I write while practicing.
 
-Examples may include:
-- Reconnaissance scripts
-- Payload generators
-- Small automation utilities
+Might include recon helpers, payload generators, or simple automation scripts.
