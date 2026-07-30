@@ -31,7 +31,7 @@ This repository serves as my living portfolio — containing writeups, technical
 ### Technical Skills
 - Web Application Security (OWASP Top 10)
 - Burp Suite (Proxy, Repeater, Intruder, Scanner)
-- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass
+- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass, HTTP Request Smuggling
 - Linux fundamentals & basic Networking
 - Information Gathering & Reconnaissance
 
@@ -76,13 +76,11 @@ cybersecurity-journey/
 
 ## Writeups
 
-Detailed writeups will be added here as rooms and labs are completed.
-
 ### TryHackMe
 - Coming soon
 
 ### PortSwigger Web Security Academy
-- Coming soon
+- [HTTP Request Smuggling – CL.TE via Obfuscated TE Header](./writeups/portswigger/http-request-smuggling-cl-te-obfuscated-te/)
 
 ---
 
