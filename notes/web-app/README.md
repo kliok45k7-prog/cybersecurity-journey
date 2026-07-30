@@ -1,9 +1,10 @@
 # Web Application Security Notes
 
-This folder contains my personal notes on web application security topics, including:
+Personal notes I take while learning web app security.
 
-- OWASP Top 10
-- Common vulnerabilities and exploitation techniques
-- Burp Suite tips and workflows
-- Request and response analysis
-- Payload collections and cheatsheets
+Things I plan to keep here:
+- OWASP Top 10 summaries
+- Notes on common vulnerabilities and how to exploit them
+- Burp Suite tips I find useful
+- Interesting payloads and techniques
+- Anything else worth remembering
