@@ -1,6 +1,8 @@
-# General Cybersecurity Notes
+# General Notes
 
-- Methodology (PTES, OWASP Testing Guide)
-- Linux basics for pentesters
-- Networking fundamentals
-- Tools cheatsheets
+Random notes that don't fit under web app security.
+
+- Testing methodology
+- Linux stuff useful for pentesting
+- Networking basics
+- Tool cheatsheets
