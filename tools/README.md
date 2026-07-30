@@ -1,8 +1,8 @@
 # Tools & Scripts
 
-اس فولڈر میں میں اپنے بنائے ہوئے scripts اور tools رکھوں گا۔
+This folder contains custom scripts and tools I develop during my learning journey.
 
-مثالیں:
-- Custom recon scripts
+Examples may include:
+- Reconnaissance scripts
 - Payload generators
-- Small automation tools
+- Small automation utilities
