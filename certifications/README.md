@@ -1,10 +1,9 @@
 # Certifications & Progress
 
-This folder tracks certifications and learning milestones.
+Tracking my learning progress and future certifications here.
 
-### Planned / In Progress
-
-- [ ] TryHackMe learning paths completion
-- [ ] PortSwigger Web Security Academy completion
-- [ ] eJPT (planned)
-- [ ] OSCP (long-term goal)
+Currently aiming for:
+- [ ] Finish main TryHackMe paths
+- [ ] Complete PortSwigger Web Security Academy
+- [ ] eJPT
+- [ ] OSCP (long term)
