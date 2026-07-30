@@ -1,8 +1,13 @@
 # PortSwigger Web Security Academy
 
-Notes and solutions from the PortSwigger labs I'm working through.
+Notes and solutions from the PortSwigger labs.
 
-Main topics:
+## Completed
+
+- [HTTP Request Smuggling – CL.TE via Obfuscated TE Header](./http-request-smuggling-cl-te-obfuscated-te/)
+
+## Topics
+
 - SQL Injection
 - Cross-site Scripting (XSS)
 - CSRF
@@ -10,5 +15,4 @@ Main topics:
 - Access Control
 - Authentication issues
 - Business Logic flaws
-
-More will be added as I go.
+- HTTP Request Smuggling
