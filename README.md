@@ -31,7 +31,7 @@ This repository serves as my living portfolio — containing writeups, technical
 ### Technical Skills
 - Web Application Security (OWASP Top 10)
 - Burp Suite (Proxy, Repeater, Intruder, Scanner)
-- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass, HTTP Request Smuggling
+- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass, HTTP Request Smuggling, File Upload Bypass
 - Linux fundamentals & basic Networking
 - Information Gathering & Reconnaissance
 
@@ -39,6 +39,7 @@ This repository serves as my living portfolio — containing writeups, technical
 - Burp Suite Community / Professional
 - OWASP ZAP
 - Nmap
+- Gobuster
 - Nikto
 - SQLMap
 - Browser Developer Tools
@@ -77,7 +78,7 @@ cybersecurity-journey/
 ## Writeups
 
 ### TryHackMe
-- Coming soon
+- [Guided Pentest Web](./writeups/tryhackme/guided-pentest-web/) — Recon, IDOR, Broken Password Reset, Insecure File Upload
 
 ### PortSwigger Web Security Academy
 - [HTTP Request Smuggling – CL.TE via Obfuscated TE Header](./writeups/portswigger/http-request-smuggling-cl-te-obfuscated-te/)
