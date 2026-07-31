@@ -2,10 +2,6 @@
 
 Writeups for the TryHackMe rooms I complete.
 
-I'll keep each room in its own folder like this:
+## Rooms
 
-```
-room-name/
-├── README.md
-└── screenshots/
-```
+- [Guided Pentest Web](./guided-pentest-web/) — Recon, IDOR, Broken Password Reset, Insecure File Upload
