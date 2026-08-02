@@ -2,8 +2,8 @@
 
 > A personal portfolio documenting my journey into **Cybersecurity** and **Penetration Testing**, with a current focus on **Web Application Security**.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/kliok45k7-prog/cybersecurity-journey)
-![GitHub repo size](https://img.shields.io/github/repo-size/kliok45k7-prog/cybersecurity-journey)
+![GitHub last commit](https://img.shields.io/github/last-commit/umair-sec/cybersecurity-journey)
+![GitHub repo size](https://img.shields.io/github/repo-size/umair-sec/cybersecurity-journey)
 
 ---
 
@@ -31,7 +31,7 @@ This repository serves as my living portfolio — containing writeups, technical
 ### Technical Skills
 - Web Application Security (OWASP Top 10)
 - Burp Suite (Proxy, Repeater, Intruder, Scanner)
-- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass, HTTP Request Smuggling, File Upload Bypass
+- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass, HTTP Request Smuggling, File Upload Bypass, Remote Code Execution
 - Linux fundamentals & basic Networking
 - Information Gathering & Reconnaissance
 
@@ -42,6 +42,7 @@ This repository serves as my living portfolio — containing writeups, technical
 - Gobuster
 - Nikto
 - SQLMap
+- Netcat
 - Browser Developer Tools
 
 ---
@@ -78,7 +79,7 @@ cybersecurity-journey/
 ## Writeups
 
 ### TryHackMe
-- [Guided Pentest Web](./writeups/tryhackme/guided-pentest-web/) — Recon, IDOR, Broken Password Reset, Insecure File Upload
+- [Guided Pentest Web](./writeups/tryhackme/guided-pentest-web/) — Recon, IDOR, Broken Password Reset, File Upload, RCE & Reverse Shell
 
 ### PortSwigger Web Security Academy
 - [HTTP Request Smuggling – CL.TE via Obfuscated TE Header](./writeups/portswigger/http-request-smuggling-cl-te-obfuscated-te/)
@@ -120,10 +121,10 @@ I follow a structured approach based on industry standards:
 
 ## Contact
 
-- GitHub: [kliok45k7-prog](https://github.com/kliok45k7-prog)
+- GitHub: [umair-sec](https://github.com/umair-sec)
 
 ---
 
 *This is a living document and is updated regularly as I continue learning and growing in cybersecurity.*
 
-*Last updated: July 2026*
+*Last updated: August 2026*
