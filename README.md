@@ -1,60 +1,36 @@
-# Cybersecurity Journey
+# SOC Analyst Journey
 
-> A personal portfolio documenting my journey into **Cybersecurity** and **Penetration Testing**, with a current focus on **Web Application Security**.
-
-![GitHub last commit](https://img.shields.io/github/last-commit/umair-sec/cybersecurity-journey)
-![GitHub repo size](https://img.shields.io/github/repo-size/umair-sec/cybersecurity-journey)
+> Personal portfolio documenting my path into **Security Operations (SOC)** and blue team cybersecurity.
 
 ---
 
 ## About Me
 
-I am currently building hands-on skills in **Penetration Testing**, with a primary focus on **Web Application Security**.  
-I practice consistently on **TryHackMe** and **PortSwigger Web Security Academy**, documenting my progress, findings, and learning along the way.
+I am currently learning to become a **SOC Analyst**, focusing on detection, monitoring, incident response, and defensive security.
 
-This repository serves as my living portfolio — containing writeups, technical notes, custom tools, and projects as I grow in the field.
+This repository will track my progress, labs, notes, and projects as I build practical skills for a SOC role.
 
 ---
 
 ## Current Focus
 
-- **Primary Domain**: Web Application Penetration Testing
-- **Active Platforms**:
-  - [TryHackMe](https://tryhackme.com/)
-  - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- **Next Areas**: Network Penetration Testing, Active Directory, Privilege Escalation
+- Security Operations Center (SOC) fundamentals
+- Log analysis and SIEM concepts
+- Network and endpoint monitoring
+- Incident detection and response
+- Threat intelligence basics
 
 ---
 
-## Skills (In Progress)
+## Learning Path (In Progress)
 
-### Technical Skills
-- Web Application Security (OWASP Top 10)
-- Burp Suite (Proxy, Repeater, Intruder, Scanner)
-- Common vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR, Authentication Bypass, HTTP Request Smuggling, File Upload Bypass, Remote Code Execution
-- Linux fundamentals & basic Networking
-- Information Gathering & Reconnaissance
-
-### Tools
-- Burp Suite Community / Professional
-- OWASP ZAP
-- Nmap
-- Gobuster
-- Nikto
-- SQLMap
-- Netcat
-- Browser Developer Tools
-
----
-
-## Learning Progress
-
-| Platform                  | Status     | Notes                          |
-|---------------------------|------------|--------------------------------|
-| TryHackMe                 | Active     | Completing learning paths & rooms |
-| PortSwigger Academy       | Active     | Working through web security topics |
-| HackTheBox                | Planned    | —                              |
-| VulnHub                   | Planned    | —                              |
+| Area | Status | Notes |
+|------|--------|-------|
+| SOC Fundamentals | Starting | — |
+| SIEM / Log Analysis | Planned | — |
+| Network Security Monitoring | Planned | — |
+| Incident Response | Planned | — |
+| Threat Intelligence | Planned | — |
 
 ---
 
@@ -63,59 +39,22 @@ This repository serves as my living portfolio — containing writeups, technical
 ```
 cybersecurity-journey/
 ├── README.md
-├── writeups/                 # Detailed writeups of rooms and labs
-│   ├── tryhackme/
-│   └── portswigger/
-├── notes/                    # Methodology, cheatsheets, and techniques
-│   ├── web-app/
-│   └── general/
-├── tools/                    # Custom scripts and tools
-├── projects/                 # Larger personal projects
-└── certifications/           # Certificates and progress tracking
+├── labs/           # Hands-on labs and exercises
+├── notes/          # Study notes and cheatsheets
+├── projects/       # Practical projects
+└── certifications/ # Progress and certs
 ```
 
----
-
-## Writeups
-
-### TryHackMe
-- [Guided Pentest Web](./writeups/tryhackme/guided-pentest-web/) — Recon, IDOR, Broken Password Reset, File Upload, RCE & Reverse Shell
-
-### PortSwigger Web Security Academy
-- [HTTP Request Smuggling – CL.TE via Obfuscated TE Header](./writeups/portswigger/http-request-smuggling-cl-te-obfuscated-te/)
-
----
-
-## Notes & Cheatsheets
-
-This section will be regularly updated with personal notes covering:
-- OWASP Top 10
-- Common web vulnerabilities and exploitation techniques
-- Burp Suite tips and workflows
-- Testing methodology (PTES / OWASP Testing Guide)
-
----
-
-## Methodology
-
-I follow a structured approach based on industry standards:
-
-1. **Reconnaissance**
-2. **Scanning & Enumeration**
-3. **Vulnerability Analysis**
-4. **Exploitation**
-5. **Post-Exploitation**
-6. **Reporting**
+*(Folders will be added as content is created.)*
 
 ---
 
 ## Goals
 
-- [ ] Complete all PortSwigger Web Security Academy topics
-- [ ] Finish major TryHackMe learning paths (Web Fundamentals, Jr Penetration Tester, etc.)
-- [ ] Build a high-quality collection of detailed writeups
-- [ ] Document advanced web application attack techniques
-- [ ] Prepare for industry certifications (eJPT → OSCP)
+- [ ] Build a strong foundation in SOC operations
+- [ ] Complete relevant hands-on labs and rooms
+- [ ] Document detections, investigations, and lessons learned
+- [ ] Prepare for entry-level SOC Analyst roles
 
 ---
 
@@ -125,6 +64,6 @@ I follow a structured approach based on industry standards:
 
 ---
 
-*This is a living document and is updated regularly as I continue learning and growing in cybersecurity.*
+*This is a living document. Updated as I learn and grow in security operations.*
 
-*Last updated: August 2026*
+*Started: August 2026*
