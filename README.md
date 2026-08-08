@@ -1,7 +1,7 @@
 # 30-Week SOC Analyst Journey
 
 **Goal:** Land my first SOC Analyst role by January 2027  
-**Location:** Italy | **Start Date:** July 2026
+**Location:** Italy | **Start Date:** August 2026
 
 ---
 
@@ -44,6 +44,16 @@
 
 ## Daily Logs
 
+### Day 1 – August 2026
+- ✅ Set up GitHub portfolio (30-Week SOC Analyst Journey)
+- ✅ Defined goal: First SOC Analyst role by January 2027
+- ✅ Chose learning platforms: TryHackMe, LetsDefend, Splunk
+- ✅ Started CompTIA Security+ study plan (Target: September 2026)
+- ✅ Created initial Progress Tracker
+- ✅ Anki: 10 flashcards created
+
+**Focus:** Foundation and portfolio setup
+
 ### Day 2 – August 8, 2026
 - ✅ TryHackMe: Linux Fundamentals Part 1 completed
 - ✅ TryHackMe: Linux Fundamentals Part 2 completed
@@ -51,7 +61,7 @@
 - ✅ OverTheWire: Bandit Level 3 completed
 - ✅ TryHackMe: Pre-Security "Computer Types" completed
 - ✅ LetsDefend: First look at SOC logs/alerts
-- ✅ Anki: 20 total flashcards (10 Day 1 + 10 Day 2)
+- ✅ Anki: 10 more flashcards (20 total)
 - ✅ LinkedIn: 5 connection requests sent, profile optimized
 
 **Tomorrow (Day 3):** Linux Fundamentals Part 3 + Bandit Level 4 + Anki Review
